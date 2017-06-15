@@ -58,7 +58,8 @@ class Song
     DB[:conn].execute(sql)
   end
 
+  def not_sure
+
+  end
+
 end
-
-
-
